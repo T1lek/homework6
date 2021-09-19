@@ -26,6 +26,5 @@ public class Main {
 
         System.out.println(skeleton1.infoSk());
 
-        System.out.println(skeleton2.infoSk());
     }
 }
